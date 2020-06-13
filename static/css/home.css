@@ -1,5 +1,5 @@
 body {
-    background-image: linear-gradient(red, blue);
+    background-image: linear-gradient(rgb(226, 226, 226), rgb(191, 191, 224));
     height: auto;
     width: auto;
 }
@@ -8,3 +8,4 @@ html {
     min-height: 100%;
     position: relative;
 }
+
