@@ -1,3 +1,5 @@
 body {
     background-image: linear-gradient(red, blue);
+    height: auto;
+    width: auto;
 }
