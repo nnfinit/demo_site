@@ -3,3 +3,8 @@ body {
     height: auto;
     width: auto;
 }
+
+html {
+    min-height: 100%;
+    position: relative;
+}
